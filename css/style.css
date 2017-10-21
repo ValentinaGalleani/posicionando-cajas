@@ -1,0 +1,54 @@
+.cuadradored{
+	width:320px;
+	height: 320px;
+	background-color: red;
+
+}
+
+.cuadradopurple{
+	width: 150px;
+	height: 150px;
+	background-color: purple;
+	position: absolute;
+	top: 90px;
+	left: 94px;
+
+}
+
+.cuadradoyellow{
+	width: 75px;
+	height: 75px;
+	background-color: yellow;
+	position: absolute;
+	top: 90px;
+	left: 94px;
+
+}
+
+.cuadradoblue{
+	width: 320px;
+	height: 320px;
+	background-color: blue;
+	position: relative;
+	top:10px;
+	
+}
+
+.cuadradogreen{
+	width: 150px;
+	height: 150px;
+	background-color: green;
+	position: absolute;
+	top: 423px;
+	left: 94px;
+
+}
+
+.cuadradoblack{
+	width: 86px;
+	height: 86px;
+	background-color: black;
+	position: relative;
+	top: -310px;
+}
+
